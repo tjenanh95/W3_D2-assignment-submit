@@ -1,3 +1,4 @@
+# anh thanh
 #!/bin/bash
 LED3_PATH=/sys/class/leds/beaglebone:green:usr3
 
